@@ -8,7 +8,6 @@
   - [🔹 Inputs](#-inputs)
   - [🔹 Core Modules](#-core-modules)
 - [LLM Model Selection](#-llm-model-selection)
-- [Repository Structure](#-repository-structure)
 - [Deliverables](#-deliverables)
 - [ Getting Started & Running the Code](#-getting-started-&-running-the-code)
 - [Future Scope](#-future-scope)
@@ -55,17 +54,7 @@ This project demonstrates a minimal viable product (MVP) for automating the crea
 
 ---
 
-## Repository Structure
 
-├── main.py # CLI runner
-├── llm_generator.py # LLM interaction and prompt construction
-├── campaign_runner.py # Execution pipeline for end-to-end flow
-├── extractor.py # PDF handling logic
-├── config.env # API keys (excluded in repo)
-├── README.md # Project overview and instructions
-└── screenshots/ # Sample output snapshots
-
----
 
 ## Getting Started & Running the Code
 
