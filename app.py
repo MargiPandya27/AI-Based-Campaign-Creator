@@ -17,8 +17,8 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 limiter = Limiter(app=app, key_func=get_remote_address, default_limits=["5 per minute"])
 
-ZAPIER_WEBHOOK_URL = "https://hooks.zapier.com/hooks/catch/22808151/2nmxjd3/"
-LINKEDIN_ACCESS_TOKEN = 'AQWpLPNXpPA_zULSCPo8i3bSQoerzycpgPoG7Atyb33xB4cKrRkL-3ZQjyOf84ulsYNOG70hAdwt7zxffgiB3anM62datCtC9VrGGxo8vBw31RpazQoi_g6TTLtm-gXSo-cYZFAo3kqCYLxsRgQeM23KhaQ8Whmg8-t3CXnyhIxt2olwLXNnKOPCJlBGJe0WERTME1LaDGeRu9RFIsYvzmJpnMaiBhzZJa0onsQbc13FgsZ_qBAgw_XWXUXpvOjdKVeC2RocmhXxz8AofOgM_lfL9OyxTZMRL-W-ZmnEts3E6VwXQh_dAeG-g435zP-WqyNZsHVrBijqxnjz9KOdPvh1-y_FwQ'  # Replace with your LinkedIn access token
+ZAPIER_WEBHOOK_URL = "zapier_webhook_link"
+LINKEDIN_ACCESS_TOKEN = 'add_your_access_token'  # Replace with your LinkedIn access token
 
 request_cache = {}
 
