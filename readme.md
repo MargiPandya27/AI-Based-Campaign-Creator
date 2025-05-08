@@ -1,9 +1,5 @@
 # 🧠 AI-Powered Campaign Creator – atomicads-ai-engineer-assignment-margi
 
-**Author**: Margi Pandya  
-**Time Estimate**: 12 hours (split over 2 days)
-
----
 
 ## 📑 Table of Contents
 
@@ -29,15 +25,8 @@ This project demonstrates a minimal viable product (MVP) for automating the crea
 
 ## Architecture Overview
 
-### Inputs
+<img src="https://github.com/user-attachments/assets/4a9f6aec-db35-4745-9f1c-b57c9f75023e" alt="image" width="500"/>
 
-- Structured campaign brief (via CLI):
-  - Product
-  - Goal
-  - Target Audience
-  - Budget
-  - Platform
-  - Optional: PDF collateral, Website URL
 
 ### Core Modules
 
