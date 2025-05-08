@@ -5,7 +5,6 @@
 
 - [Objective](#-objective)
 - [Architecture Overview](#️-architecture-overview)
-  - [🔹 Inputs](#-inputs)
   - [🔹 Core Modules](#-core-modules)
 - [LLM Model Selection](#-llm-model-selection)
 - [Deliverables](#-deliverables)
