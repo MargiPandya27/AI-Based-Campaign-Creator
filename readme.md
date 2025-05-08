@@ -1,7 +1,7 @@
-# 🧠 AI-Powered Campaign Creator 
+# AI-Powered Campaign Creator 
 
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Objective](#-objective)
 - [Architecture Overview](#️-architecture-overview)
