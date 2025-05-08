@@ -25,6 +25,27 @@ This project demonstrates a minimal viable product (MVP) for automating the crea
 
 <img src="https://github.com/user-attachments/assets/4a9f6aec-db35-4745-9f1c-b57c9f75023e" alt="image" width="500"/>
 
+### User Input using Flask:
+
+![image](https://github.com/user-attachments/assets/2bf02e42-9a6e-4298-8832-59de27f16a85)
+
+### Campaign Details:
+- **Product**: Smartwatch X  
+- **Goal**: Drive website traffic  
+- **Audience**: Young professionals aged 25–35 interested in fitness and productivity  
+- **Budget**: $2000  
+- **Platform**: LinkedIn  
+- **Company Website**: -  
+- **Upload Reference PDF (Optional)**: -
+
+## Output of LLM
+![image](https://github.com/user-attachments/assets/c8efd9bf-ef74-4af9-b22e-0756581cd13c)
+
+
+### Final Ad posted on LinkedIn:
+![image](https://github.com/user-attachments/assets/269391f7-dd9f-4d03-974c-e25d50bf317f)
+
+
 
 ### Core Modules
 
