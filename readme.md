@@ -12,11 +12,11 @@
   - [🔹 Inputs](#-inputs)
   - [🔹 Core Modules](#-core-modules)
 - [LLM Model Selection](#-llm-model-selection)
-- [📦 Repository Structure](#-repository-structure)
-- [✅ Deliverables](#-deliverables)
-- [🔭 Future Scope](#-future-scope)
-- [📸 Sample Output](#-sample-output)
-- [🙋‍♀️ Contact](#-contact)
+- [Repository Structure](#-repository-structure)
+- [Deliverables](#-deliverables)
+- [ Getting Started & Running the Code](#-getting-started-&-running-the-code)
+- [Future Scope](#-future-scope)
+- [Contact](#-contact)
 
 ---
 
@@ -78,9 +78,9 @@ This project demonstrates a minimal viable product (MVP) for automating the crea
 
 ---
 
-## 🚦 Getting Started & Running the Code
+## Getting Started & Running the Code
 
-### 1. 🔧 Setup Environment
+### 1. Setup Environment
 
 Clone the repository and install the required Python packages:
 
@@ -117,7 +117,7 @@ Run the python app.py to generate an ad campaign:
 ```bash
 python app.py
 ```
-
+---
 
 ## Deliverables
 
@@ -137,12 +137,6 @@ python app.py
 - ✅ Feedback loop and A/B testing capabilities
 - ✅ Cost optimization via local open-source models
 - ✅ Prompt tuning and output validation logic
-
----
-
-## Sample Output
-
-![Sample Screenshot](screenshots/sample_ad.png)
 
 ---
 
