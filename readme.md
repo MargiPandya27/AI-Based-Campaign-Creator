@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Campaign Creator – atomicads-ai-engineer-assignment-margi
+# 🧠 AI-Powered Campaign Creator 
 
 
 ## 📑 Table of Contents
